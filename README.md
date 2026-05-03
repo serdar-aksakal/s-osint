@@ -1,12 +1,12 @@
 # S-OSINT
 A search engine for publicly accessible data, enabling professionals to efficiently search for relevant information across multiple languages and geographic locations.
 
-[![Status](https://img.shields.io/badge/Status-Beta-orange.svg)](https://s-osint.com)
-[![Version](https://img.shields.io/badge/Release-2025.04-blue.svg)](https://s-osint.com)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://s-osint.com)
+[![Status](https://img.shields.io/badge/Status-Beta-orange.svg)](https://app.s-osint.com)
+[![Version](https://img.shields.io/badge/Release-2025.04-blue.svg)](https://app.s-osint.com)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://app.s-osint.com)
 
 ## 🌟 Overview
-**S-OSINT** ([s-osint.com](https://s-osint.com)) is a specialized search engine for efficiently exploring publicly accessible data, designed for professionals who work with public information by its ability to perform localized queries tailored to specific countries and regions. It is an exceptionally well-suited search engine for Open Source Intelligence (OSINT).
+**S-OSINT** ([app.s-osint.com](https://app.s-osint.com)) is a specialized search engine for efficiently exploring publicly accessible data, designed for professionals who work with public information by its ability to perform localized queries tailored to specific countries and regions. It is an exceptionally well-suited search engine for Open Source Intelligence (OSINT).
 
 The primary goal of the project is to overcome language barriers and enable international-scale searches, as language obstacles often cause many resources to be overlooked. The secondary goal is to consolidate all useful resources and prevent irrelevant search results from mixing in, as is common in other search engines.
 
