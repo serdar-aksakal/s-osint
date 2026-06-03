@@ -35,15 +35,15 @@ S-OSINT offers four search levels ranging from global to highly localized data. 
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/04/s-osint-dekstop.png" />
+  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-desktop.png" />
   <br>
-  <em>Desktop interface starting from 1 April 2026</em>
+  <em>Desktop interface starting from 3 June 2026</em>
 </p>
 
 <p align="center">
-  <img src="https://www.serdaraksakal.com/wp-content/uploads/2025/04/20260412_174312-1536x704.png" />
+  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-map-1536x704.png" />
   <br>
-  <em>Search results map by country/territory as of 12 April 2026</em>
+  <em>Search results map by country/territory as of 3 June 2026</em>
 </p>
 
 ## 📊 Project Evolution
