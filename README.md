@@ -52,8 +52,9 @@ S-OSINT offers four search levels ranging from global to highly localized data. 
 | :--- | :--- |
 | **18 April 2025** | Establishment |
 | **April 2025 - February 2026** | Manual data entry, membership system creation, and search accuracy improvements. |
-| **22 February 2026** | Automation efforts began with traditional and new AI-powered crawlers. |
-| **Future** | AI-powered automated crawlers and a premium subscription payment system. |
+| **February 2026 - June 2026** | Core algorithm for AI crawlers developed. |
+| **5 June 2026** | Premium subscription payment system activated. |
+| **Ongoing** | AI crawler improvements via prompt engineering and NLP-based URL discovery. |
 
 ## 🤝 Collaboration & Partnership
 S-OSINT is open to strategic partnerships and professional collaborations. 
