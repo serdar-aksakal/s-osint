@@ -54,7 +54,10 @@ S-OSINT offers four search levels ranging from global to highly localized data. 
 | **April 2025 - February 2026** | Manual data entry, membership system creation, and search accuracy improvements. |
 | **February - June 2026** | Core algorithm for AI crawlers developed. |
 | **5 June 2026** | Premium subscription payment system activated. |
-| **Ongoing** | AI crawler improvements via prompt engineering and NLP-based URL discovery. |
+| **June 2026** | AI crawler improvements via prompt engineering and NLP-based URL discovery. |
+| **27 June 2026** | Crawler-v18 delivers good results, but it's still slow and costs about $0.10 per link. |
+| **Ongoing** | Developing faster, lower-cost alternatives to Crawler-v18. |
+
 
 ## 🤝 Collaboration & Partnership
 S-OSINT is open to strategic partnerships and professional collaborations. 
