@@ -1,7 +1,7 @@
 # S-OSINT
 A search engine for publicly accessible data, enabling professionals to efficiently search for relevant information across multiple languages and geographic locations.
 
-[![Status](https://img.shields.io/badge/Status-Beta-orange.svg)](https://app.s-osint.com)
+[![Status](https://img.shields.io/badge/Status-Stable-green.svg)](https://app.s-osint.com)
 [![Version](https://img.shields.io/badge/Release-2025.04-blue.svg)](https://app.s-osint.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://app.s-osint.com)
 
