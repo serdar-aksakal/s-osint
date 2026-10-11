@@ -1,49 +1,58 @@
 # S-OSINT
-A search engine for publicly accessible data, enabling professionals to efficiently search for relevant information across multiple languages and geographic locations.
+A specialized search engine for discovering public information sources worldwide.
 
 [![Status](https://img.shields.io/badge/Status-Stable-green.svg)](https://app.s-osint.com)
 [![Version](https://img.shields.io/badge/Release-2025.04-blue.svg)](https://app.s-osint.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://app.s-osint.com)
 
+### 🌍 S-OSINT in Your Language
+
+🇬🇧 [English](https://s-osint.com/the-s-osint-search-engine/) ·
+🇳🇴 [Norsk](https://s-osint.com/nb/sokemotoren-s-osint/) ·
+🇵🇱 [Polski](https://s-osint.com/wyszukiwarka-s-osint/) ·
+🇩🇪 [Deutsch](https://s-osint.com/suchmaschine-s-osint/)
+
 ## 🌟 Overview
-**S-OSINT** ([app.s-osint.com](https://app.s-osint.com)) is a specialized search engine for efficiently exploring publicly accessible data, designed for professionals who work with public information by its ability to perform localized queries tailored to specific countries and regions. It is an exceptionally well-suited search engine for Open Source Intelligence (OSINT).
+**S-OSINT** ([app.s-osint.com](https://app.s-osint.com)) is a specialized search engine designed to help professionals efficiently discover publicly accessible information resources across different countries and regions. It brings together a structured collection of global, national, regional, and exclusive sources, making it particularly well-suited for Open Source Intelligence (OSINT) research.
 
-The primary goal of the project is to overcome language barriers and enable international-scale searches, as language obstacles often cause many resources to be overlooked. The secondary goal is to consolidate all useful resources and prevent irrelevant search results from mixing in, as is common in other search engines.
+The primary goal of the project is to facilitate international research by reducing language and geographic barriers that can cause valuable resources to be overlooked. A secondary goal is to consolidate relevant sources within a single search engine, reducing the need to search multiple platforms seperately.
 
-The search engine was originally designed for governments, academia, journalists, and non-profit organizations, but was later opened to private sector and individual users.
+The search engine was originally designed for governments, academic institutions, journalists, and non-profit organizations, but was later made available to the private sector and individual users.
 
 **Project Background & Concept:** [Visit Project Page](https://www.serdaraksakal.com/s-osint)
 
 ## 🛡️ Target Use Cases
 
-* **Investigative Journalism:** Tracing public records across autonomous regions.
-* **Academic Research:** Mapping regional data without linguistic bias.
-* **Legal & Due Diligence:** Verifying national-level listings (lawyers, court records).
-* **Non-Profit Monitoring:** Tracking regional developments in conflict or autonomous zones.
+* **Investigative Journalism:** Exploring public information sources across countries and regions.
+* **Academic Research:** Accessing geographically diverse resources for comparative and interdisciplinary research.
+* **Legal & Due Diligence:** Locating public registries, professional directories, and jurisdiction-specific sources.
+* **Cross-Border Research:** Identifying relevant national, regional, and local resources across multiple jurisdictions.
+* **Non-Profit & Institutional Research:** Supporting research and monitoring through publicly accessible sources.
+* **Business & Independent Research:** Accessing public resources for business and independent research.
 
 ## 🔍 Search Levels
 
-S-OSINT offers four search levels ranging from global to highly localized data. Level 0 covers general, non-state-specific results, Level 1 includes national-level sources, and Level 2 focuses on regional and city-level data as well as autonomous or partially recognized regions (premium only). Level 8 is an exclusive collection available only to premium members.
+S-OSINT organizes its sources into for search levels: Global, National, Regional, and Exclusive.
 
 | Level | Classification | Scope & Description | Access |
 | :---: | :--- | :--- | :--- |
-| **0** | **Global** | Search engines, social media, maps, online tools... | [![Public](https://img.shields.io/badge/-Public-brightgreen)](#) |
-| **1** | **National** | Debt and court searches, translator and lawyer listings, individual lookup... | [![Public](https://img.shields.io/badge/-Public-brightgreen)](#) |
-| **2** | **Regional** | Municipal registries, urban records and maps, residence data... | ![Premium](https://img.shields.io/badge/-Premium-gold) |
+| **0** | **Global** | Search engines, social media, maps, online tools | [![Public](https://img.shields.io/badge/-Public-brightgreen)](#) |
+| **1** | **National** | Debt and court searches, translator and lawyer listings, individual lookup | [![Public](https://img.shields.io/badge/-Public-brightgreen)](#) |
+| **2** | **Regional** | Municipal registries, urban records, residence data | ![Premium](https://img.shields.io/badge/-Premium-gold) |
 | **8** | **Exclusive** | An exclusive collection of useful resources | ![Premium](https://img.shields.io/badge/-Premium-gold) |
 
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-desktop.png" />
+  <img src="https://s-osint.com/wp-content/uploads/2026/10/s-osint-desktop.png" />
   <br>
-  <em>Desktop interface starting from 3 June 2026</em>
+  <em>Desktop interface starting from 8 October 2026</em>
 </p>
 
 <p align="center">
-  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-map-1536x704.png" />
+  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-map.png" />
   <br>
-  <em>Search results map by country/territory as of 3 June 2026</em>
+  <em>Search results map by country/territory as of 8 October 2026</em>
 </p>
 
 ## 📊 Project Evolution
@@ -75,12 +84,15 @@ Unauthorized copying, distribution, or modification of this project via any medi
 ## 📂 Project Identity
 * **Origin:** Established on 18 April 2025 in Oslo, Norway. 🇳🇴
 * **Operations:** Currently developed and maintained in Oslo.
-* **Development Model:** Independent Professional Project.
+* **Development Model:** Independent Development.
 * **Global Reach:** Optimized for 190+ Jurisdictions.
 
 ## 📬 Contact
 
+**S-OSINT**
+* **Website:** [s-osint.com](https://www.s-osint.com)
+* **LinkedIn:** [linkedin.com/company/s-osint](https://www.linkedin.com/company/s-osint)
+
 **Serdar Aksakal**
 * **Website:** [serdaraksakal.com](https://www.serdaraksakal.com)  
-* **GitHub:** [@serdar-aksakal](https://github.com/serdar-aksakal)  
 * **LinkedIn:** [linkedin.com/in/serdar-aksakal](https://www.linkedin.com/in/serdar-aksakal)
