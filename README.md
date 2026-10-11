@@ -68,6 +68,15 @@ S-OSINT organizes its sources into for search levels: Global, National, Regional
 | **28 Jun 2026** | Localized Crawler-v18 variants with improved efficiency and lower cost (~$0,045/link). |
 | **14 Sep 2026** | First local AI-based Crawler-v18 reaching operational success. |
 
+## 🛠️ Technology Stack
+
+| System Component | Languages |
+| :--- | :--- |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP |
+| Database | SQL |
+| Web Crawlers | Python |
+| Link Control System | Python |
 
 ## 🤝 Collaboration & Partnership
 S-OSINT is open to strategic partnerships and professional collaborations. 
