@@ -10,7 +10,8 @@ A specialized search engine for discovering public information sources worldwide
 🇬🇧 [English](https://s-osint.com/the-s-osint-search-engine/) ·
 🇳🇴 [Norsk](https://s-osint.com/nb/sokemotoren-s-osint/) ·
 🇵🇱 [Polski](https://s-osint.com/wyszukiwarka-s-osint/) ·
-🇩🇪 [Deutsch](https://s-osint.com/suchmaschine-s-osint/)
+🇩🇪 [Deutsch](https://s-osint.com/suchmaschine-s-osint/) ·
+🇪🇸 [Español](https://s-osint.com/buscador-s-osint/)
 
 ## 🌟 Overview
 **S-OSINT** ([app.s-osint.com](https://app.s-osint.com)) is a specialized search engine designed to help professionals efficiently discover publicly accessible information resources across different countries and regions. It brings together a structured collection of global, national, regional, and exclusive sources, making it particularly well-suited for Open Source Intelligence (OSINT) research.
