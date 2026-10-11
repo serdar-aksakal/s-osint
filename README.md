@@ -51,7 +51,7 @@ S-OSINT organizes its sources into for search levels: Global, National, Regional
 </p>
 
 <p align="center">
-  <img src="https://www.serdaraksakal.com/wp-content/uploads/2026/06/s-osint-map.png" />
+  <img src="https://www.s-osint.com/wp-content/uploads/2026/10/s-osint-map.png" />
   <br>
   <em>Search results map by country/territory as of 8 October 2026</em>
 </p>
