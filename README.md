@@ -20,8 +20,6 @@ The primary goal of the project is to facilitate international research by reduc
 
 The search engine was originally designed for governments, academic institutions, journalists, and non-profit organizations, but was later made available to the private sector and individual users.
 
-**Project Background & Concept:** [Visit Project Page](https://www.serdaraksakal.com/s-osint)
-
 ## 🛡️ Target Use Cases
 
 * **Investigative Journalism:** Exploring public information sources across countries and regions.
