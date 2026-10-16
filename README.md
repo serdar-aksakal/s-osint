@@ -67,7 +67,7 @@ S-OSINT organizes its sources into for search levels: Global, National, Regional
 | **28 Jun 2026** | Localized Crawler-v18 variants with improved efficiency and lower cost (~$0,045/link). |
 | **14 Sep 2026** | First local AI-based Crawler-v18 reaching operational success. |
 | **14 Oct 2026** | Crawler-v20 delivering faster, cheaper, and more reliable results (~$0,012/link). |
-| **16 Oct 2026** | Upgraded from Boolean to relevance-ranked search with smart queries and spell correction.|
+| **16 Oct 2026** | Upgraded from Boolean to relevance-ranked search with smart queries and spellcheck.|
 
 ## 🛠️ Technology Stack
 
